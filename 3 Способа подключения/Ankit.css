@@ -1,0 +1,13 @@
+h3
+{
+  letter-spacing: 2px;  
+}
+textarea 
+{
+    text-transform: capitalize;
+    text-decoration:underline;
+}
+input
+{
+    text-transform: capitalize;
+}
